@@ -1,4 +1,4 @@
-download:https://example.com/file.zip](https://filez.aslain.com/Aslains_WoT_Modpack_Installer_v.2.2.1.0_02.exe
+download: https://filez.aslain.com/Aslains_WoT_Modpack_Installer_v.2.2.1.0_02.exe
 
 
 # github-sandbox
